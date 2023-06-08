@@ -1,0 +1,259 @@
+input {
+  padding: 10px;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+select {
+  padding: 10px;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+h1 {
+  font-size: 55px;
+  text-shadow: 2px 2px 4px #000000;
+  transition: all 0.3s ease-in-out;
+}
+
+#upload {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid black;
+  transition: all 0.3s ease-in-out;
+}
+
+
+
+#loginSection {
+  padding: 5px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 4px #000000;
+  transition: all 0.3s ease-in-out;
+}
+
+body {
+  background-color: red;
+  transition: all 0.3s ease-in-out;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  transition: all 0.3s ease-in-out;
+}
+
+#loginbtn {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: blue;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+#reglink {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #ed2311;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+a {
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+#mainSection {
+  padding: 10px;
+}
+
+#profileSection {
+  width: 30%;
+  float: left;
+  background-color: white;
+  padding: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+#groupSection {
+  width: 60%;
+  float: right;
+  background-color: white;
+  padding: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+#back-button {
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+#logout-button {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Hover Effects */
+
+input:hover {
+  transform: scale(1.1);
+}
+
+select:hover {
+  transform: scale(1.1);
+}
+
+h1:hover {
+  text-shadow: 4px 4px
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+select {
+  padding: 10px;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+h1 {
+  font-size: 55px;
+  text-shadow: 2px 2px 4px #000000;
+  transition: all 0.3s ease-in-out;
+}
+
+#upload {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid black;
+  transition: all 0.3s ease-in-out;
+}
+
+#headerSection {
+  padding: 2px;
+  font-family: Cursive;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 4px #000000;
+  transition: all 0.3s ease-in-out;
+}
+
+#loginSection {
+  padding: 5px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 4px #000000;
+  transition: all 0.3s ease-in-out;
+}
+
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  transition: all 0.3s ease-in-out;
+}
+
+#loginbtn {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+#reglink {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+a {
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+#mainSection {
+  padding: 10px;
+}
+
+#profileSection {
+  width: 30%;
+  float: left;
+  background-color: white;
+  padding: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+#groupSection {
+  width: 60%;
+  float: right;
+  background-color: white;
+  padding: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+#back-button {
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+#logout-button {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Hover Effects */
+
+input:hover {
+  transform: scale(1.1);
+}
+
+select:hover {
+  transform: scale(1.1);
+}
+
+h1:hover {
+  text-shadow: 4px 4px
+}
